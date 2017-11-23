@@ -5,6 +5,8 @@ VisualStudioVersion = 15.0.27004.2008
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ha2ne2AI", "ha2ne2AI\ha2ne2AI.csproj", "{95D97F12-C89B-432E-8604-EAF2D3675691}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ha2ne2AITests", "ha2ne2AITests\ha2ne2AITests.csproj", "{F9A76CCF-D3DF-4929-A030-A55A1A79DF7F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{95D97F12-C89B-432E-8604-EAF2D3675691}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{95D97F12-C89B-432E-8604-EAF2D3675691}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{95D97F12-C89B-432E-8604-EAF2D3675691}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F9A76CCF-D3DF-4929-A030-A55A1A79DF7F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F9A76CCF-D3DF-4929-A030-A55A1A79DF7F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F9A76CCF-D3DF-4929-A030-A55A1A79DF7F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F9A76CCF-D3DF-4929-A030-A55A1A79DF7F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
